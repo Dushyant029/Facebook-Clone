@@ -1,6 +1,11 @@
 To Visit My Facebook-Clone WebApp =>>> Link - "https://facebook-clone-af5ae.web.app/"
 
-This project was bootstrapped with [Create React App]
+This project was bootstrapped with Create React App
+
+## Preview
+
+![image](https://user-images.githubusercontent.com/55031190/102710889-b19c1780-42db-11eb-983a-6fca8fb9b1ed.png)
+
 
 ## Available Scripts
 
